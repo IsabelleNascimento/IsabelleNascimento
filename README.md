@@ -35,6 +35,7 @@ Possuo experiência prática no tratamento de dados estruturados e não estrutur
 * 🌤️ **[ETL Clima Sudeste](https://github.com/IsabelleNascimento/ETL_clima_sudeste):** Pipeline de ingestão e transformação de dados meteorológicos via API REST pública utilizando Python e Pandas.
 * ⚡ **[Pipeline Spark (CAT)](https://github.com/IsabelleNascimento/CAT-pipeline-spark):** Processamento e manipulação de grandes volumes de dados utilizando PySpark.
 * 🏥 **[Lacrei Saúde Back-End](https://github.com/IsabelleNascimento/lacrei-saude-backend):** API REST desenvolvida em Django e PostgreSQL.
+* 📱 **[Chatbot com Telegram](https://github.com/IsabelleNascimento/chatbot-telegram)):** Chat para responder principais duvidas utilizando a API do Gemine.
 
 ---
 
